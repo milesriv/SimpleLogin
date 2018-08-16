@@ -1,0 +1,6 @@
+INSERT INTO login(USERNAME, PASSWORD)
+VALUES('miles', 'rivera'),
+('12345', '6789'),
+('up1', 'down1'),
+('Left', 'Right'),
+('WoRdS123', 'WoRdS123');
